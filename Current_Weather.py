@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-api_key = '1bf2c320-4013-4ced-a7b5-7aa30d80422a'
+api_key = 'hidden'
 api_url = f'http://api.airvisual.com/v2/states?country=USA&key={api_key}'
 
 
